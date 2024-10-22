@@ -10,7 +10,8 @@ In this Repository I am making notes for interviews of javascript and for those 
 
 + ### [Introduction to JavaScript](https://github.com/saurabhbahadur/javascript-interview-questions/blob/main/Introduction%20of%20JavaScript.md) 
 + ### [String](https://github.com/saurabhbahadur/javascript-interview-questions/blob/main/String.md) 
-+ ### [Array](https://github.com/saurabhbahadur/javascript-interview-questions/blob/main/Array.md) 
++ ### [Array](https://github.com/saurabhbahadur/javascript-interview-questions/blob/main/Array.md)
++ ### [JS fun](https://github.com/saurabhbahadur/javascript-interview-questions/blob/main/Trail/JS%20fun().md)
 
 
 ---
